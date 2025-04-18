@@ -1,0 +1,10 @@
+Runs a program with given argument(s)
+
+SYNTAX: run <name> <args...>
+
+To compile 'src/main.cpp' with 'g++',
+    `run g++ src/main.cpp`
+
+NOTE: 
+    If you use a certain program often, consider adding a copy of
+    it to the 'commands/' directory for easier use

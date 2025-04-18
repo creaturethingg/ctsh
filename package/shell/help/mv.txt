@@ -1,0 +1,6 @@
+Moves a file from one location to another
+
+SYNTAX: mv <from> <to>
+
+To move 'foo.txt' to 'bar/',
+    `mv foo.txt bar/foo.txt`

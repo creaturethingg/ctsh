@@ -1,0 +1,8 @@
+Opens a file, creates it if it doesn't already exist
+
+SYNTAX: code <fname>
+
+For example, to make a new file called 'main.c',
+    `code main.c`
+
+    NOTE: If main.c already exists, it will open the file

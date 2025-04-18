@@ -1,0 +1,13 @@
+Lists contents of a directory
+
+SYNTAX: 
+    ls <dir> OR ls
+
+ls <dir>:
+    Lists contents of specified directory
+
+ls:
+    Lists contents of current directory
+
+To list the contents of 'foo/',
+    `ls foo`

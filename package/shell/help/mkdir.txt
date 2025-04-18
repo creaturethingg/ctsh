@@ -1,0 +1,6 @@
+Creates a new directory, if it doesn't already exists
+
+SYNTAX: mkdir <dirname>
+
+For example, to make a directory called 'dev',
+    `mkdir dev`

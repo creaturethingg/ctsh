@@ -1,0 +1,6 @@
+Renames a specified object
+
+SYNTAX: ren <oldname> <newname>
+
+For example, to rename 'a.txt' to 'b.txt',
+    `ren a.txt b.txt`
