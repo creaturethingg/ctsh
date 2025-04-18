@@ -33,7 +33,7 @@ If you added documentation to the `help/` folder, you can use `help greet` to se
 As you can see, it is very simple to modify the shell   
 
 ## How to use it  
-- Download and extract `package.zip`
+- Download and extract `package.7z`
 - Locate `ctsh.exe`
 
 With this exe file, you can add it to your PATH variables
