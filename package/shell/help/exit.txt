@@ -1,3 +1,0 @@
-Exits the shell
-
-SYNTAX: exit 

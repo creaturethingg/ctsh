@@ -1,8 +1,0 @@
-Attempts to remove a directory or file
-
-SYNTAX: rm <target>
-
-NOTE: If used on a folder, it will remove all contents of the folder recursively
-
-To remove 'foo.txt',
-    `rm foo.txt`

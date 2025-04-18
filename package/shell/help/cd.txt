@@ -1,6 +1,0 @@
-Changes current directory
-
-SYNTAX: cd <dir>
-
-For example, to change to C:/Coding,
-    `cd C:/Coding`

@@ -1,7 +1,0 @@
-Copies a file from one location to another
-
-SYNTAX: cp <from> <to>
-
-To copy 'foo.txt' to 'bar/',
-    `cp foo.txt bar/foo.txt`
-    
