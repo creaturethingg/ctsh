@@ -10,7 +10,28 @@ Listing directory '"C:\\Dev\\ctsh\\shell"'...
 -> [.EXE] "C:\\Dev\\ctsh\\shell\\ctsh.exe"
 -> [DIR] "C:\\Dev\\ctsh\\shell\\help"
  
-```   
+```
+
+## Adding your own command   
+Heres an example of adding a greet command   
+`greet.cpp` : 
+```
+#include <iostream>
+
+int main(int argc, char** argv) {
+ std::cout << "Hello, " << argv[1] << std::endl;
+}
+```
+Compile `greet.cpp -> greet.exe`   
+Drag it to the `commands/` folder   
+Optionally, add some documentation in `greet.txt`, and add it to the `help/` folder   
+In CTSH, use
+`> greet John`   
+You should see   
+`Hello, John`   
+If you added documentation to the `help/` folder, you can use `help greet` to see the documentation   
+As you can see, it is very simple to modify the shell   
+
 ## How to use it  
 - Download and extract `package.zip`
 - Locate `ctsh.exe`
