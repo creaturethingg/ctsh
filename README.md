@@ -1,5 +1,16 @@
 # CTSH - CREATURETHINGG SHELL
 
+> CTSH is a fast, lightweight, modular shell written in C++, made for Windows   
+> It is extremely customisable and easy to add your own commands and modifications
+
+```
+ctsh "C:\\Dev\\ctsh\\shell" > ls
+Listing directory '"C:\\Dev\\ctsh\\shell"'...
+-> [DIR] "C:\\Dev\\ctsh\\shell\\commands"
+-> [.EXE] "C:\\Dev\\ctsh\\shell\\ctsh.exe"
+-> [DIR] "C:\\Dev\\ctsh\\shell\\help"
+ 
+```   
 ## How to use it  
 - Download and extract `package.zip`
 - Locate `ctsh.exe`
