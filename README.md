@@ -15,7 +15,7 @@ Listing directory '"C:\\Dev\\ctsh\\shell"'...
 ## Adding your own command   
 Heres an example of adding a greet command   
 `greet.cpp` : 
-```
+```cpp
 #include <iostream>
 
 int main(int argc, char** argv) {
@@ -40,7 +40,7 @@ With this exe file, you can add it to your PATH variables
 or run it directly from there.  
 In VSCODE, use `ctrl + shift + p` and go to `settings.json`   
 Inside `"terminal.integrated.profiles.windows"`, add 
-```
+```json
 "CreatureThingg Shell": {
             "path": "path/To/Exe"
 }
