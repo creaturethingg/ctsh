@@ -1,0 +1,9 @@
+A basic rock paper scissors game 
+
+Doesn't take command line arguments, 
+just use 'rps' to play
+
+You use the up/down arrow keys to 
+choose rock/paper/scissors against a bot
+
+You can press escape any time to exit
