@@ -1,0 +1,5 @@
+Picks a random option from the command line arguments
+
+For example, to pick between ['foo', 'bar', 'baz'],
+    `pick foo bar baz`
+
