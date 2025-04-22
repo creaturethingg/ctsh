@@ -1,0 +1,20 @@
+A set of basic file I/O utilities
+
+file r <target>:
+	Prints the content of the specified file
+
+file p <target>:
+	Prints the first 100 characters of the specified file
+
+file w <target> <content>:
+	Writes the content to the specified file
+
+file a <target> <content>:
+	Appends the content to the specified file
+
+file wf <target> <source>:
+	Copies the content of the source file into the target file
+
+file af <target> <source>:
+	Appends the content of the source file into the target file
+
